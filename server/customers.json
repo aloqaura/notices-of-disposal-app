@@ -1,0 +1,44 @@
+[
+    {   
+        "givenName": "Alex James",
+        "lastName": "BURGESS",
+        "address": {
+            "addressSiteName": "",
+            "buildingName": "",
+            "unit": "25",
+            "streetNumber": "50-90",
+            "streetSuffix": "RD",
+            "suburb": "BELLVUE HHILL",
+            "state": "NSW",
+            "postcode": "2023"
+        }
+    }, 
+    {
+        "givenName": "Jade L",
+        "lastName": "OLA",
+        "address": {
+            "addressSiteName": "THE COUNTRY CLOUD",
+            "buildingName": "",
+            "unit": "",
+            "streetNumber": "203",
+            "streetSuffix": "LANE",
+            "suburb": "AUBURN",
+            "state": "NSW",
+            "postcode": "2059"
+        }
+    },
+    {
+        "givenName": "Keira Angel",
+        "lastName": "MERCIAL",
+        "address": {
+            "addressSiteName": "",
+            "buildingName": "THE STAR",
+            "unit": "",
+            "streetNumber": "101",
+            "streetSuffix": "ST",
+            "suburb": "ROOTY HILL",
+            "state": "NSW",
+            "postcode": "2111"
+        }
+    }
+]
